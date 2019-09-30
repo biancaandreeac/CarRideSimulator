@@ -1,8 +1,8 @@
 Last name, first name: Bianca Ciuche
 Group: 315 CA
 
-Homework started on: 01.05.2019
-Homework finished on: 04.05.2019
+Project started on: 01.05.2019
+Project finished on: 04.05.2019
 
 Difficulties encountered:
 - Problem: Crating a graph that contains strings;
@@ -27,7 +27,3 @@ from vertex's vector of distances) and others in order to solve the tasks.
   In task 4 I used 3 sorted lists of pairs to keep the name of the driver and
 the rating, distance and rides. In task 5 I calculated the distances and I 
 sorted the results.
-
-Homework complexity:
-  In my opininon, it was a medium to hard homework, but I think that if I would
-have started it sooner it would have been better;
